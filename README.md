@@ -1,92 +1,144 @@
-# Giovana's Desktop 🖥️
+<div align="center">
 
-![Banner](https://via.placeholder.com/1000x200/6C63FF/FFFFFF?text=Giovana's+Desktop)
+<img src="./assets/banner.png" alt="Giovana's Desktop" width="100%">
+
+<br>
+
+# Giovana
+
+### Desenvolvedora Júnior · Desenvolvimento Web · Creative Coder
+
+**Uma jovem curiosa, transformando curiosidade em código.**
+
+<br>
+
+[Sobre mim](#sobre-mim) ·
+[Projetos](#projetos) ·
+[Tecnologias](#tecnologias) ·
+[Estudos](#estudos) ·
+[Contato](#contato)
+
+</div>
+
+---
+
+## Sobre mim
+
+Olá! Me chamo **Giovana**.
+
+Sou Desenvolvedora Júnior e tenho interesse em tecnologia, desenvolvimento web e criação de interfaces.
+
+Gosto de aprender na prática, explorar novas tecnologias e transformar ideias em projetos. Estou construindo minha experiência através de estudos, projetos pessoais e desafios que me ajudam a evoluir como desenvolvedora.
+
+> Ainda estou no começo da jornada, mas sempre existe algo novo para aprender e construir.
+
+---
 
 ## Projetos
-- [Sobre Mim](#sobre-mim)
-- [Estudos](#estudos)
-- [Contato](#contato)
+
+### Dashboard Admin
+
+Painel administrativo desenvolvido com foco em organização, componentes reutilizáveis e criação de uma interface moderna e funcional.
+
+**Tecnologias:** React · JavaScript · CSS
+
+[Ver projeto →](https://github.com/giovana-v/dashboard-admin)
 
 ---
 
-**Iniciar**  
-**Aprendendo sempre.exe**  
-**3 projetos**  
-**Online**  
+### InovaMed — TCC
+
+Projeto desenvolvido como Trabalho de Conclusão de Curso durante minha formação técnica em Informática.
+
+**Tecnologias:** JavaScript · HTML · CSS
+
+[Ver projeto →](https://github.com/giovana-v/InovaMed--TCC)
 
 ---
 
-# Developer Jr 
-**Desenvolvedora Júnior • Fullstack Developer • Creative Coder**  
+### Minha Lista de Tarefas
 
-> Uma jovem curiosa, transformando curiosidade em código.  
+Projeto desenvolvido para praticar os fundamentos do desenvolvimento web e reforçar meus conhecimentos em HTML, CSS e JavaScript.
 
----
+**Tecnologias:** HTML · CSS · JavaScript
 
-## Sobre Mim | Tecnologias | Projetos | Estudos | Contato  
-
----
-
-## sobre_mim.exe
-
-### Oi, pessoas! Me chamo Giovana. 
-Sou uma Desenvolvedora Júnior apaixonada por tecnologia e por transformar ideias em projetos.  
-
-Gosto de aprender na prática, explorar novas tecnologias e criar interfaces bonitas, funcionais e com propósito.  
-
-Acredito que cada linha de código é um passo para construir algo que pode fazer diferença!  
+[Ver projeto →](https://github.com/giovana-v)
 
 ---
 
-## projetos.exe
+## Tecnologias
 
-### Dashboard Admin  
-Painel administrativo com foco em organização, componentes reutilizáveis e interface moderna.  
+<div align="center">
 
-**Tecnologias:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 
----
+</div>
 
-###InovaMed -- TCC  
-Projeto desenvolvido como trabalho de Conclusão de Curso durante minha formação técnica.  
+<br>
 
-**Tecnologias:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
----
-
-### Mineha Lista de Tarefas  
-Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar meus estudos.  
-
-**Tecnologias:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+| Tecnologia | Uso |
+|:---|:---|
+| **HTML** | Estrutura e semântica |
+| **CSS** | Estilização e interfaces |
+| **JavaScript** | Lógica e interatividade |
+| **React** | Desenvolvimento de interfaces |
+| **Git** | Controle de versão |
+| **GitHub** | Projetos e colaboração |
+| **VS Code** | Desenvolvimento |
 
 ---
 
-## tecnologias.exe
+## Estudos
 
-**Habilidades:**  
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+Atualmente estou focada em aprimorar meus conhecimentos em:
+
+- JavaScript
+- React
+- Desenvolvimento Front-end
+- Interfaces e experiência do usuário
+- Boas práticas de programação
+- Git e GitHub
+
+Meu objetivo é continuar evoluindo através de projetos reais e desafios que me tirem da zona de conforto.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=giovana-v&show_icons=true&theme=transparent&hide_border=true&locale=pt-br">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-v&layout=compact&theme=transparent&hide_border=true&locale=pt-br">
+
+</div>
 
 ---
 
 ## Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovana-soares-7a9a702ab/))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovana.v.soares@gmail.com)  
+<div align="center">
+
+<a href="https://github.com/giovana-v">
+<img src="https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/giovana-soares-7a9a702ab/">
+<img src="https://img.shields.io/badge/LinkedIn-6C3FC5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:giovana.v.soares@gmail.com">
+<img src="https://img.shields.io/badge/Email-6C3FC5?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
+
+<div align="center">
+
+**Obrigada por visitar meu espaço.**
+
+`feito com curiosidade, código e criatividade`
+
+</div>
