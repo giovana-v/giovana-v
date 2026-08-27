@@ -1,16 +1,45 @@
-## Hi there 👋
-
 <!--
-**giovana-v/giovana-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    ╔══════════════════════════════════════════════╗
+    ║        GIOVANA'S DIGITAL DESKTOP             ║
+    ║        Windows XP / Pixel Art Edition        ║
+    ╚══════════════════════════════════════════════╝
 -->
+
+<div align="center">
+
+# Developer Jr Giovana
+
+### `Programadora Júnior` · `Fullstack Developer` · `Creative Coder`
+
+Apenas uma jovem curiosa pela tecnologia.
+
+<br>
+
+[📁 Projetos](#-my-projects) ·
+[💻 Habilidades](#-system-information) ·
+[👩‍💻 Sobre Mim](#-about-me) ·
+[📨 Contato](#-contact)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ 🖥️  GIOVANA'S DESKTOP                                 ─ □ ×  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║       📁                 💻                    🎮            ║
+║                                                              ║
+║    Projetos             SOBRE              HABILIDADES       ║
+║                                                              ║
+║                                                              ║
+║             🌳       🌱       🏡       🌱       🌳          ║
+║                                                              ║
+║                    ✦ Bem-Vindo(a)! ✦                         ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║ 🪟 Começo     📁 3 Projects     🌐 Online        🕐 20:07    ║
+╚══════════════════════════════════════════════════════════════╝
