@@ -90,7 +90,3 @@ Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar m
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovana.v.soares@gmail.com)  
 
 ---
-
-## Footer
-
-Aprendendo constantemente!   
