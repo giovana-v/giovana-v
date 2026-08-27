@@ -4,9 +4,9 @@
 
 <br>
 
-# Giovana
+# About me
 
-### Desenvolvedora Júnior · Desenvolvimento Web · Creative Coder
+### Developer Jr · Desenvolvimento Web · Creative Coder
 
 **Uma jovem curiosa, transformando curiosidade em código.**
 
