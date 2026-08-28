@@ -10,7 +10,15 @@
 
 Desenvolvedora Web · Técnica em Informática · Full Stack em formação
 
-> Uma jovem curiosa, transformando curiosidade em código.>
+> Uma jovem curiosa, transformando curiosidade em código.
+
+<br>
+
+![Projetos](https://img.shields.io/badge/Projetos-3-6C3FC5)
+![Stack](https://img.shields.io/badge/Stack-Full_Stack_em_formação-6C3FC5)
+![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_Web-6C3FC5)
+
+<br>
 
 [Sobre mim](#sobre-mim) ·
 [Projetos](#projetos) ·
