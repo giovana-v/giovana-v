@@ -89,19 +89,6 @@ Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar m
 
 ---
 
-## Estudos
-
-Atualmente estou focada em aprimorar meus conhecimentos em:
-
-- JavaScript
-- React
-- Desenvolvimento Front-end
-- Interfaces e experiência do usuário
-- Boas práticas de programação
-- Git e GitHub
-
-Meu objetivo é continuar evoluindo através de projetos reais e desafios que me tirem da zona de conforto.
-
 ## Contato
 
 <div align="center">
