@@ -102,20 +102,6 @@ Atualmente estou focada em aprimorar meus conhecimentos em:
 
 Meu objetivo é continuar evoluindo através de projetos reais e desafios que me tirem da zona de conforto.
 
----
-
-## GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=giovana-v&show_icons=true&theme=transparent&hide_border=true&locale=pt-br">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-v&layout=compact&theme=transparent&hide_border=true&locale=pt-br">
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
