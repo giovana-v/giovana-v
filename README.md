@@ -20,10 +20,10 @@ Desenvolvedora Web · Técnica em Informática · Full Stack em formação
 
 <br>
 
-[sobre_mim.exe](#sobre_mimexe) ·
-[projetos.exe](#projetosex e) ·
-[tecnologias.exe](#tecnologiasexe) ·
-[contato.exe](#contatoexe)
+[Sobre mim](#sobre-mim) ·
+[Projetos](#projetos) ·
+[Tecnologias](#tecnologias) ·
+[Contato](#contato)
 
 </div>
 
