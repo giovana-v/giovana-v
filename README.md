@@ -8,7 +8,7 @@
 
 **Olá, eu sou a Giovana!**
 
-Desenvolvedora Júnior · Desenvolvimento Web · Creative Coder
+Desenvolvedora Web · Técnica em Informática · Full Stack em formação
 
 > Uma jovem curiosa, transformando curiosidade em código.
 
