@@ -32,7 +32,7 @@ Gosto de aprender na prática, explorar novas tecnologias e transformar ideias e
 
 ## projetos.exe
 
-### 📊 Dashboard Admin
+### 📊 • Dashboard Admin
 
 Painel administrativo desenvolvido com foco em organização, componentes reutilizáveis e criação de uma interface moderna e funcional.
 
@@ -42,7 +42,7 @@ Painel administrativo desenvolvido com foco em organização, componentes reutil
 
 ---
 
-### 🏥 InovaMed — TCC
+### 🏥 • InovaMed — TCC
 
 Projeto desenvolvido como trabalho de Conclusão de Curso durante minha formação técnica em Informática.
 
@@ -52,7 +52,7 @@ Projeto desenvolvido como trabalho de Conclusão de Curso durante minha formaç�
 
 ---
 
-### 📋 Minha Lista de Tarefas
+### 📋 • Minha Lista de Tarefas
 
 Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar meus estudos.
 
