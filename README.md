@@ -4,17 +4,15 @@
 
 <br>
 
-### Developer Jr · Desenvolvimento Web · Creative Coder
+### `sobre_mim.exe`
 
-**Uma jovem curiosa, transformando curiosidade em código.**
+**Olá, eu sou a Giovana!**
 
-<br>
+Desenvolvedora Júnior · Desenvolvimento Web · Creative Coder
 
-[Sobre mim](#sobre-mim) ·
-[Projetos](#projetos) ·
-[Tecnologias](#tecnologias) ·
-[Estudos](#estudos) ·
-[Contato](#contato)
+> Uma jovem curiosa, transformando curiosidade em código.
+
+`[ Sobre mim ]` ` [ Projetos ]` ` [ Tecnologias ]` ` [ Estudos ]` ` [ Contato ]`
 
 </div>
 
