@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner" alt="Giovana's Desktop" width="100%">
+<img src="./assets/banner.png" alt="Giovana's Desktop" width="100%">
 
 <br>
 
@@ -70,7 +70,7 @@ Projeto desenvolvido para praticar os fundamentos do desenvolvimento web e refor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,linux,mysql,nodejs,git,github,vscode" />
 
 </div>
 
@@ -82,25 +82,12 @@ Projeto desenvolvido para praticar os fundamentos do desenvolvimento web e refor
 | **CSS** | Estilização e interfaces |
 | **JavaScript** | Lógica e interatividade |
 | **React** | Desenvolvimento de interfaces |
+| **Linux** | Ambiente e ferramentas de desenvolvimento |
+| **SQL** | Banco de dados e consultas |
+| **Node.js** | Desenvolvimento back-end |
 | **Git** | Controle de versão |
 | **GitHub** | Projetos e colaboração |
 | **VS Code** | Desenvolvimento |
-
----
-
-## Estudos
-
-Atualmente estou focada em aprimorar meus conhecimentos em:
-
-- JavaScript
-- React
-- Desenvolvimento Front-end
-- Interfaces e experiência do usuário
-- Boas práticas de programação
-- Git e GitHub
-
-Meu objetivo é continuar evoluindo através de projetos reais e desafios que me tirem da zona de conforto.
-
 ---
 
 ## GitHub
@@ -138,7 +125,5 @@ Meu objetivo é continuar evoluindo através de projetos reais e desafios que me
 <div align="center">
 
 **Obrigada por visitar meu espaço.**
-
-`feito com curiosidade, código e criatividade`
 
 </div>
