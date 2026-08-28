@@ -18,10 +18,6 @@ Desenvolvedora Júnior · Desenvolvimento Web · Creative Coder
 
 ---
 
-## Sobre mim
-
-Olá! Me chamo **Giovana**.
-
 Sou Desenvolvedora Júnior e tenho interesse em tecnologia, desenvolvimento web e criação de interfaces.
 
 Gosto de aprender na prática, explorar novas tecnologias e transformar ideias em projetos. Estou construindo minha experiência através de estudos, projetos pessoais e desafios que me ajudam a evoluir como desenvolvedora.
