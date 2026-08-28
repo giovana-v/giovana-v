@@ -8,10 +8,6 @@
 
 **Olá, eu sou a Giovana!**
 
-Desenvolvedora Web · Técnica em Informática · Full Stack em formação
-
-> Uma jovem curiosa, transformando curiosidade em código.
-
 <br>
 
 ![Projetos](https://img.shields.io/badge/Projetos-3-6C3FC5)
@@ -19,6 +15,8 @@ Desenvolvedora Web · Técnica em Informática · Full Stack em formação
 ![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_Web-6C3FC5)
 
 <br>
+
+> Uma jovem curiosa, transformando curiosidade em código.
 
 [Sobre mim](#sobre-mim) ·
 [Projetos](#projetos) ·
