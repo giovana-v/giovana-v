@@ -70,21 +70,6 @@ Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar m
 
 </div>
 
-<br>
-
-| Tecnologia | Uso |
-|:---|:---|
-| **HTML** | Estrutura e semântica |
-| **CSS** | Estilização e interfaces |
-| **JavaScript** | Lógica e interatividade |
-| **React** | Desenvolvimento de interfaces |
-| **Linux** | Sistema operacional e ambiente de desenvolvimento |
-| **SQL** | Banco de dados e consultas |
-| **Node.js** | Desenvolvimento back-end |
-| **Git** | Controle de versão |
-| **GitHub** | Projetos e colaboração |
-| **VS Code** | Desenvolvimento |
-
 ---
 
 ## estudos.exe
