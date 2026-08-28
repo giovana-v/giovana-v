@@ -10,15 +10,7 @@
 
 Desenvolvedora Web · Técnica em Informática · Full Stack em formação
 
-> Uma jovem curiosa, transformando curiosidade em código.
-
-<br>
-
-![Projetos](https://img.shields.io/badge/Projetos-3-6C3FC5)
-![Status](https://img.shields.io/badge/Status-Online-brightgreen?color=6C3FC5)
-![IDE](https://img.shields.io/badge/IDE-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-<br>
+> Uma jovem curiosa, transformando curiosidade em código.>
 
 [Sobre mim](#sobre-mim) ·
 [Projetos](#projetos) ·
