@@ -4,8 +4,6 @@
 
 <br>
 
-# About me
-
 ### Developer Jr · Desenvolvimento Web · Creative Coder
 
 **Uma jovem curiosa, transformando curiosidade em código.**
