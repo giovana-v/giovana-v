@@ -72,23 +72,6 @@ Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar m
 
 ---
 
-## estudos.exe
-
-Atualmente estou aprimorando meus conhecimentos em:
-
-- JavaScript
-- React
-- Node.js
-- SQL
-- Linux
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Git e GitHub
-
-Meu objetivo é continuar aprendendo através de projetos e desafios práticos.
-
----
-
 ## contato.exe
 
 <div align="center">
