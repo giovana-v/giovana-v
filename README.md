@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner" alt="Giovana's Desktop" width="100%">
+<img src="./banner.png" alt="Giovana's Desktop" width="100%">
 
 <br>
 
@@ -14,10 +14,15 @@ Desenvolvedora Web · Técnica em Informática · Full Stack em formação
 
 <br>
 
+![Projetos](https://img.shields.io/badge/Projetos-3-6C3FC5)
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?color=6C3FC5)
+![IDE](https://img.shields.io/badge/IDE-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+<br>
+
 [Sobre mim](#sobre-mim) ·
 [Projetos](#projetos) ·
 [Tecnologias](#tecnologias) ·
-[Estudos](#estudos) ·
 [Contato](#contato)
 
 </div>
@@ -34,7 +39,7 @@ Gosto de aprender na prática, explorar novas tecnologias e transformar ideias e
 
 ### 📊 • Dashboard Admin
 
-Painel administrativo desenvolvido com foco em organização, componentes reutilizáveis e criação de uma interface moderna e funcional.
+Painel administrativo desenvolvido com foco em organização, componentes reutilizáveis e gerenciamento eficiente de estado com React Hooks.
 
 **Tecnologias:** React · JavaScript · CSS
 
@@ -44,7 +49,7 @@ Painel administrativo desenvolvido com foco em organização, componentes reutil
 
 ### 🏥 • InovaMed — TCC
 
-Projeto desenvolvido como trabalho de Conclusão de Curso durante minha formação técnica em Informática.
+Sistema de agendamento de consultas para clínica médica, desenvolvido como Trabalho de Conclusão de Curso. Focado em UX simples e funcionalidades essenciais para o dia a dia de uma recepção.
 
 **Tecnologias:** JavaScript · HTML · CSS
 
@@ -54,11 +59,11 @@ Projeto desenvolvido como trabalho de Conclusão de Curso durante minha formaç�
 
 ### 📋 • Minha Lista de Tarefas
 
-Projeto criado para praticar os fundamentos do desenvolvimento web e reforçar meus estudos.
+Aplicação web para gerenciamento de tarefas diárias, desenvolvida para praticar fundamentos de manipulação do DOM e armazenamento local.
 
 **Tecnologias:** HTML · CSS · JavaScript
 
-[Ver projeto →](https://github.com/giovana-v)
+[Ver projeto →](https://github.com/giovana-v/minha-lista-de-tarefas)
 
 ---
 
