@@ -15,9 +15,7 @@ Aprendendo na prática, um projeto de cada vez.
 
 ## tecnologias.exe
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,linux,git,github,vscode" /> </div>
 
 ## contato.exe
 
