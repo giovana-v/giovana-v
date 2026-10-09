@@ -4,7 +4,7 @@
 
 ## sobre_mim.exe
 
-**Olá, eu sou a Giovana!** 👋
+**Olá, eu sou a Giovana!**
 
 Desenvolvedora Front-end · Técnica em Informática
 
